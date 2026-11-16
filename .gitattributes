@@ -7,3 +7,7 @@
 *.mp4 binary
 *.step -text
 *.stp -text
+
+# Native Fusion archives
+*.f3d binary
+*.f3z binary

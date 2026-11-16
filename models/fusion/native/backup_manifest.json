@@ -1,0 +1,29 @@
+{
+  "backed_up_on": "2026-11-16",
+  "files": [
+    {
+      "file": "Print_Bed_Scanner.f3d",
+      "source": "Autodesk Fusion local design cache",
+      "source_filename": "_Print_Bed_Scanner.ddd5a3b5-2c05-4aac-ab71-bac0e69c3e7b.f3d",
+      "source_modified_utc": "2026-11-13T03:50:09.193429+00:00",
+      "size_bytes": 2621328,
+      "sha256": "70aad4aa905e2bbdcbbeacb0d3572350976eb2ccb852aa8c04433a56607636ba"
+    },
+    {
+      "file": "Print_Bed_Scanner_v2.f3d",
+      "source": "Autodesk Fusion local design cache",
+      "source_filename": "_Print_Bed_Scanner_v2.117da686-95ca-4973-b5ba-47cc63a488a2.f3d",
+      "source_modified_utc": "2026-11-13T04:04:26.140090+00:00",
+      "size_bytes": 2744047,
+      "sha256": "2da8c888908ca7f39c548c4322ab73ac078f0be9ffc00f56e369df913a0a40f1"
+    },
+    {
+      "file": "Carriage_Print_Spacers.f3d",
+      "source": "Autodesk Fusion local design cache",
+      "source_filename": "_Carriage_Print_Spacers.8dd9d391-216d-4199-9ce5-3368c30c50c7.f3d",
+      "source_modified_utc": "2026-11-07T05:29:49.840793+00:00",
+      "size_bytes": 217004,
+      "sha256": "bb732324cd05726e38426dfa13822545780cef0b89c163858ad03c02a0008c8d"
+    }
+  ]
+}
