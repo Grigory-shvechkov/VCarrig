@@ -1,0 +1,9 @@
+# Preserve CAD exports and media byte-for-byte.
+*.pdf binary
+*.stl binary
+*.3mf binary
+*.png binary
+*.gif binary
+*.mp4 binary
+*.step -text
+*.stp -text
